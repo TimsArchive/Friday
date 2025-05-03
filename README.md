@@ -23,7 +23,7 @@ Thank you for downloading and trying out my program! :)
 
 1. Extract the zip file to the Desktop.
     - *(C:\Users\\\<USER\>\Desktop)*
-    - *'.gitignore' & 'README' can be removed or relocated to any location*
+    - *'README.md' can be removed or relocated to any location*
 2. Run the "Friday_Installer.bat".
 3. Choose "Install Friday".
 

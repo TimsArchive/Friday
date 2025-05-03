@@ -1,0 +1,6 @@
+This page does not have a specific "Friday_PageX_Menu.bat" file as it is handled
+by "Friday.bat", the main program. 
+The main program is a collection of what I think is the most common use cases for this program
+hence why it doesn't have a specific theme like the other ones.
+
+This is the only menu like this.
